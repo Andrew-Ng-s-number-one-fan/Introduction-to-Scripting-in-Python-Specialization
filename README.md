@@ -1,4 +1,5 @@
 # [Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python)
+A series of 4 courses offered by Rice University
 
 #### Course 1: [Python Programming Essentials](https://www.coursera.org/learn/python-programming)
 
